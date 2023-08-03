@@ -8,7 +8,7 @@ services:
     repo: https://github.com/TeamHMT/Auto-search-tamil-bot.git # optional
     region: oregon # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
-    branch: web # optional (defaults to master)
+    branch: worker # optional (defaults to master)
     numInstances: 1 # optional (defaults to 1)
     healthCheckPath: /
 
